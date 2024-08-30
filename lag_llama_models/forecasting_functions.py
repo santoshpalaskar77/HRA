@@ -366,7 +366,7 @@ class probabilistic_forecasting():
                         corr_future_.append(corr_f_)
                     diff_1 = [abs(corr_future_[ik2]- corr_past[ik2]) for ik2 in range(len(corr_past))]
                     diff_ = np.sum(diff_1)
-                    if diff_ < best_diff:
+                    if round(diff_, 4) < best_diff:
                         best_diff = diff_
                         best_list1 = list1.copy()
                         best_index = i
