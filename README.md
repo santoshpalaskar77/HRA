@@ -7,7 +7,7 @@
   - `Python 3.9.12`
   - The necessary Python packages can be installed from the `requirements.txt` file using,
     - `pip install -r requirements.txt`
-## Instructions for Running Code
+## Instructions for Running the Code
 - Simulated data is generated in the simulated.py file itself.
 - Other datasets (Labour, Tourism, Wiki) are in the "datasets" folder
 - Except for the lag-llama model, other models can be run using .sh files from the "scripts" folder.
