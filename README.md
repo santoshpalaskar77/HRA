@@ -1,6 +1,6 @@
 # Heuristic Reordering Approach for Preserving Dependency in Hierarchical Time Series Forecasting
 
-<img src="https://github.com/user-attachments/assets/7ad73335-305a-485c-a30e-1753a49df17d" alt="hra_img" width="900"/>
+<img src="https://github.com/user-attachments/assets/351d03a7-ecd4-4c36-b01f-a761a1e3ce8e" alt="hra_img" width="900"/>
 
 ## Installation Requirements
 - It is recommended to create a conda environment with the following:
